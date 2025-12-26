@@ -1,0 +1,2 @@
+# -Time-lagged-independent-component-analysis-TICA-
+Time lagged Independent Component Analysis is a dimensionality reduction method used in molecular dynamics to identify slow, functionally relevant motions. By maximizing time-lagged autocorrelation between features, it extracts collective variables that capture long timescale conformational changes while suppressing fast, uncorrelated fluctuations.
